@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,700&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.home_left_horizontal {
+  background-image: url("/images/bg-vector.jpg")!important;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-right: 5rem;
+
+}
+
+.special_font_big {
+  font-size: 34px!important;
+  font-family: 'Knewave', cursive !important;
+  color: white;
+  margin-top: -2rem;
+  margin-bottom: -2rem!important;
+}
+
+
+.special_font_normal {
+  font-size: 25px!important;
+  font-family: 'Knewave', cursive !important;
+  color: white;
+  margin-top: -2rem;
+  margin-bottom: -2rem!important;
+}
+
+.form_control{
+  /* width: 100%; */
+  width: 190px;
+  border-radius: 5px;
+  background-color: white;
+}

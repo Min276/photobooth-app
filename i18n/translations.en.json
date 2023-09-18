@@ -1,0 +1,50 @@
+{
+    "Home": {
+      "title": "Photo Booth App",
+      "subTitle": "Begin capturing your memories",
+      "message": "Touch to Start"
+    },
+    "StepsGuide": {
+      "title": "Shall we get started?",
+      "message": "Touch to proceed",
+      "nextInfo": "Next: Payment Section"
+    },
+    "PaymentOptions": {
+      "title": "Confirm your order by clicking on a payment type",
+      "message": "1 Photo Shoot - 10,000 Ks, TOTAL 10,000 Ks"
+    },
+    "WalletPayment": {
+      "title": "Scan & Pay with QR Code",
+      "kbzPay": {
+        "paymentInfo": "Pay with KBZ Pay Account",
+        "message": "09- XXX-XXX-XXX"
+      },
+      "wavePay": {
+        "paymentInfo": "Pay with Wave Pay Account",
+        "message": "09- XXX-XXX-XXX"
+      },
+      "cashPay": {
+        "paymentInfo": "Cash Payment Method",
+        "message": "Please ask our staff for the code to fill",
+        "codeEnter": "Enter code here",
+        "codeSubmit": "Submit"
+      }, 
+      "cardPay": {
+        "paymentInfo": "Card Payment Method",
+        "cardNumber": "Enter Card Number",
+        "cardSubmit": "Submit"
+      }
+    },
+    "PaymentSuccess": {
+      "title": "Payment Successful !!",
+      "firstButton": "User Guide",
+      "secondButton": "Take Photos",
+      "thankYou": "Thank you for using our photo booth service."
+    },
+    "UserGuideList": {
+      "title": "Ready ?",
+      "message": "Touch to start",
+      "nextInfo": "Next: Photo Section"
+    }
+    
+  }
